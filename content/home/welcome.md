@@ -1,17 +1,19 @@
 ---
 widget: hero
+widget_id: TianXi's  Research Group
 headless: true
 weight: 10
 title: TianXi's  Research Group
-hero_media: welcome.jpg
-widget_id: TianXi's  Research Group
+active: true
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
-    image: contact.jpg
+    image: coders.jpg
     text_color_light: true
+    image_darken: 0.2
+hero_media: welcome.jpg
 ---
 <br>
 
