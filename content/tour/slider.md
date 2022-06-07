@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to the tx group
       content: Take a look at what we're working on...
       align: center
       background:
@@ -42,6 +42,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us us
+        text: Join Us
         url: ../contact/
 ---
