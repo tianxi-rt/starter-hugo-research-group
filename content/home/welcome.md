@@ -9,6 +9,9 @@ design:
   columns: "2"
   css_style: null
   css_class: null
+  background:
+    image: contact.jpg
+    text_color_light: true
 ---
 <br>
 
