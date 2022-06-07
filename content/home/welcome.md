@@ -12,7 +12,7 @@ design:
   background:
     image: coders.jpg
     text_color_light: true
-    image_darken: 0.2
+    image_darken: 0
 hero_media: welcome.jpg
 ---
 <br>
