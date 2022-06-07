@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: TianXi's  Research Group
+widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: TianXi's  Research Group
@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: coders.jpg
+    image: ""
     text_color_light: true
     image_darken: 0
 hero_media: welcome.jpg
