@@ -42,6 +42,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: Join Us us
         url: ../contact/
 ---
