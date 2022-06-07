@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: RECENT-POSTS
+widget_id: latest news
 headless: true
 weight: 10
 title: Latest News
