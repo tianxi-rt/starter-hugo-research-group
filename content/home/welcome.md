@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: RECENT-POSTS
+widget_id: RECENT-POST
 headless: true
 weight: 10
 title: TianXi's  Research Group
