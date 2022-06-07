@@ -6,7 +6,7 @@ title: TianXi's  Research Group
 hero_media: welcome.jpg
 widget_id: TianXi's  Research Group
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---
