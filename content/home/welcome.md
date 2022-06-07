@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     image: ""
-    text_color_light: true
+    text_color_light: false
     image_darken: 0
 hero_media: welcome.jpg
 ---
